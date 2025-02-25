@@ -1,0 +1,60 @@
+print
+ Tipo str (string)
+ Tipo int e float (números)
+ Tipo bool (boolean) 
+  Coerção de tipos 
+  Concatenação (+) e repetição (*) com operadores aritméticos
+  + Ellipsis
+  Uma introdução às f-strings (formatação de strings)
+  input
+  + if / elif / else (condicionais)
+  if, elif e else
+  Operadores relacionais (de comparação) em Python
+  "and"
+  Operador Lógico "or"
+  Operador lógico "not"
+  in e not in
+   Interpolação de string com % em Python
+   Fatiamento de strings e a função len
+   Introdução ao try e except para capturar erros (exceptions)
+   Variáveis, constantes e complexidade de código
+9m
+Flags, is, is not e None
+Conversa - tipos built-in, documentação, tipo imutáveis, métodos de string
+while e break - Estrutura de repetição (Parte 1)
+while + continue - pulando alguma repetição
+while + while (laços internos)
+while / else (recurso peculiar do Python)
+Introdução ao for / in - estrutura de repetição para coisas finitas
+range + for para usar intervalos de números
+Tipo list - Introdução às listas mutáveis em Python
+Alterando uma lista com índices, del, append e pop (Tipo list)
+Concatenando e estendendo listas em Python
+Cuidados com tipos de dados mutáveis - list e copy
+ for in com tipo list
+ Tipo tuple (tuplas)
+ Introdução ao empacotamento e desempacotamento
+ enumerate para enumerar valores de iteráveis (pegar índices)
+ Imprecisão dos números de ponto flutuante + round e decimal.Decimal
+ split, join e strip são métodos muito úteis da str
+ Listas dentro de listas (iteráveis dentro de iteráveis)
+ Desempacotamento em chamadas de funções
+ Operação ternária com Python (if e else de uma linha)
+ Criando um gerador de CPFs com nosso algoritmo e Python
+ "def" define uma função personalizada - Introdução às funções em Python
+ Argumentos nomeados e argumentos posicionais (não nomeados) em funções
+ Valores padrão para parâmetros em funções Python + NoneType e None
+ (Parte 1) Escopo de funções e módulos em Python + global
+  Retorno de valores das funções (return)
+  *args para quantidade de argumentos não nomeados variáveis
+  Higher Order Functions - Funções de primeira classe
+  Termos técnicos: Higher Order Functions e First-Class Functions
+  Closure e funções que retornam outras funções
+   Introdução ao tipo de dados dict - Dicionários em Python
+    Manipulando chaves e valores em dicionários em Python
+     (Parte 1) Métodos úteis nos dicionários Python (dict)
+     Shallow Copy vs Deep Copy em dados mutáveis Python
+      (Parte 2) Métodos úteis nos dicionários Python (dict)
+os.system('cls')
+random, randint 
+nome[::-1]
